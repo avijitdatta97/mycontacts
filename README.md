@@ -1,6 +1,6 @@
 # mycontacts
 
-A new contacts Flutter project.
+A new contact app with google ml kit flutter project.
 
 ## Getting Started
 
